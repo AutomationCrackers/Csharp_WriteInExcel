@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_WriteDataToExcel", "Csharp_WriteDataToExcel\Csharp_WriteDataToExcel.csproj", "{BBEF5E59-B682-4566-A311-182089753BB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBEF5E59-B682-4566-A311-182089753BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBEF5E59-B682-4566-A311-182089753BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBEF5E59-B682-4566-A311-182089753BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBEF5E59-B682-4566-A311-182089753BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FC80CC4-95F1-4C8E-B61C-A49B8A262A47}
+	EndGlobalSection
+EndGlobal
